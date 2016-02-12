@@ -1,0 +1,27 @@
+<!--body link="#0000ff" vlink="#00ff00" alink="#FF0000">
+    <p id="text">Hello world</p>
+    <input id="button" type="button" value="Button" onclick="onButtonPressed()"/>
+    <a href=http://kotikit.ru/wp-content/uploads/2012/04/raskraska-tachki2.jpg download>
+        <p class="link">если вы хотите скачать фото</p>
+
+    </a>
+    <a href= download>
+    <p class="link">если вы хотите скачать фото</p>
+    </a>
+    <a href= download>
+        <p class="link">если вы хотите скачать фото</p>
+    </a>
+    <a href= download>
+        <p class="link">если вы хотите скачать фото</p>
+    </a>
+    <a href= download>
+        <p class="link">если вы хотите скачать фото</p>
+    </a>
+    <a href= download>
+        <p class="link">если вы хотите скачать фото</p>
+
+
+
+        <textarea id="jscode">// Write JS here</textarea>
+    <input type="button" value="run code" onclick="runCode()"/>
+</body-->
