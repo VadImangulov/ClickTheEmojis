@@ -8,11 +8,23 @@
 }
 
 div {
-    font-size: 150%;
     user-select: none;
     -moz-user-select: none;
     -khtml-user-select: none;
     -webkit-user-select: none;
     -o-user-select: none;
     cursor: default;
+}
+
+@media (max-width: @screen-xs) {
+    body{font-size: 10px;}
+}
+
+@media (max-width: @screen-sm) {
+    body{font-size: 14px;}
+}
+
+
+h5{
+    font-size: 1.4em;
 }
